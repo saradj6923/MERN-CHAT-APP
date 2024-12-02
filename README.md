@@ -4,9 +4,7 @@ A real-time chat application built using the MERN stack with Socket.io for real-
 
 ## 🚀 Features
 - **Real-Time Messaging** with Socket.io.
-- **User Authentication** using JWT.
 - **Responsive UI** with Tailwind CSS and Daisy UI.
-- **Chat Rooms & Direct Messages**.
 - **MongoDB for Data Persistence**.
 
 ## 🛠️ Tech Stack
